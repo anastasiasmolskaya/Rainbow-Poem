@@ -4,6 +4,7 @@ Red
 Orange
 Pink
 Yellow
+Indigo
 Green
 Blue
 and the unicorn
